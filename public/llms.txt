@@ -1,0 +1,63 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+יניב וידס מלווה רוכשי דירות מקבלן וביד שנייה עם 18 שנות ניסיון מצד היזם. ליווי רכישת דירה מקבלן שמגן עליך, מסנן עבורך ומוביל אותך לבחירה הנכונה.
+
+### אודות
+https://example.com/about
+יניב וידס עבד 18 שנה בצד הקבלנים — ועכשיו הוא עובד אך ורק בשבילך. הכירו את האיש שהפך את הידע הפנימי לנשק של רוכשי הדירות. זה ההבדל שמשנה הכל.
+
+### שירותים
+https://example.com/services
+מסינון פרויקטים ועד ניהול משא ומתן מסחרי — ליווי רכישת דירה מקבלן וביד שנייה שמכסה כל שלב בדרך. גלה אילו שירותים יכולים לחסוך לך עשרות אלפי שקלים.
+
+### מפת המצפן שלך
+https://example.com/compass-map
+לא יודע מאיפה להתחיל ברכישת דירה? מפת המצפן של יניב וידס ממפה את שלבי הרכישה ומראה לך בדיוק היכן אתה נמצא בתהליך. ייעוץ רכישת דירה חדשה שמתחיל בהבנה.
+
+### צור קשר
+https://example.com/contact
+רוצה ליווי רכישת דירה מקצועי שמתחיל בשיחה אמיתית ללא מחויבות? צור קשר עם יניב וידס עוד היום — כי הדירה הנכונה מתחילה בהחלטה הנכונה לפנות לאדם הנכון.
+
+### Products
+https://example.com/products
+המוצרים שלנו - יניב וידס | Vidas נדל"ן
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - יניב וידס | Vidas נדל"ן
+
+### Category
+https://example.com/category/:slug
+מוצרים - יניב וידס | Vidas נדל"ן
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
